@@ -14,6 +14,12 @@ Informatics Institute of Technology affiliated with Robert Gordon University
 * 🚀  I'm currently working on [Informatics Institute of Technology | IIT Campus](http://www.iit.ac.lk)
 
 ### Skills
+<td width="100%" align="center">
+
+  <img align="center" alt="Coding" width="500" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
 
 
 <p align="left">
