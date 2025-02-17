@@ -3,7 +3,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sakuna sankalpa
 =======================================================================================================================================
 
-Undergraduate | Artificial Intelligence & Data Science
+## Undergraduate | Artificial Intelligence & Data Science
+
+#### Informatics Institute of Technology affiliated with Robert Gordon University  
 ------------------------------------------------------
 <p>
   <a href="https://git.io/typing-svg">
@@ -12,7 +14,7 @@ Undergraduate | Artificial Intelligence & Data Science
 </p>
 
 </p>
-Informatics Institute of Technology affiliated with Robert Gordon University  
+
 <table>
   <tr>
     <td>
@@ -28,6 +30,8 @@ Informatics Institute of Technology affiliated with Robert Gordon University
     </td>
   </tr>
 </table>
+
+
 ### Skills
 
 
