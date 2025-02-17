@@ -5,21 +5,34 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Undergraduate | Artificial Intelligence & Data Science
 ------------------------------------------------------
+<p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Scientists;Data/Enterprise+Architect;Application+Architect;Machine+Learning+Scientist/Engineer;Data+Analyst;Data+Science+Analyst/Special;Data+Science+Consultant;Business+Intelligence+Engineer;Software+Engineer;Big+Data+Engineer/Application+Developer" alt="Typing SVG">
+  </a>
+</p>
 
-Informatics Institute of Technology affiliated with Robert Gordon University
-
-* 🌍  I'm based in Colombo Sri Lanka
-* 🖥️  See my portfolio at [LinkedIn](http://https://www.linkedin.com/in/sakuna-sankalpa)
-* ✉️  You can contact me at [sakunasankalpa@gmail.com](mailto:sakunasankalpa@gmail.com)
-* 🚀  I'm currently working on [Informatics Institute of Technology | IIT Campus](http://www.iit.ac.lk)
-
+</p>
+Informatics Institute of Technology affiliated with Robert Gordon University  
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌍 I'm based in Colombo, Sri Lanka</li>
+        <li>🖥️ See my portfolio at <a href="https://www.linkedin.com/in/sakuna-sankalpa">LinkedIn</a></li>
+        <li>✉️ You can contact me at <a href="mailto:sakunasankalpa@gmail.com">sakunasankalpa@gmail.com</a></li>
+        <li>🚀 I'm currently working on <a href="http://www.iit.ac.lk">Informatics Institute of Technology | IIT Campus</a></li>
+      </ul>
+    </td>
+    <td>
+      <img align="right" alt="Coding" width="500" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+    </td>
+  </tr>
+</table>
 ### Skills
-<td width="100%" align="left">
 
-  <img align="center" alt="Coding" width="500" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
 
   
-  </td>
 
 
 <p align="left">
